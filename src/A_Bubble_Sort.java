@@ -25,7 +25,7 @@ public class A_Bubble_Sort {
             }
         }
 
-        System.out.println("Sorted list of numbers");
+        System.out.println("Sorted list of numbers .....");
 
         for (c = 0; c < n; c++)
             System.out.print(arr[c]+"   ");
